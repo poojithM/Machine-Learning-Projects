@@ -54,11 +54,11 @@ Project file demonstrates end-to-end workflows including:
 ## 🤖 Model Building
 
 - **Classification Models**:
-  - Logistic Regression, Decision Tree, Random Forest, SVM, XGBoost, etc.
+  - Logistic Regression,KNN, Decision Tree, Random Forest, SVM, XGBoost, Navie Bayes, Kmeans etc.
 - **Regression Models**:
   - Linear Regression, Ridge, Lasso, Random Forest Regressor, etc.
 - **Deep Learning Models**:
-  - Feedforward Neural Networks, RNNs, LSTMs, CNNs (where applicable)
+  - Feedforward Neural Networks, RNNs, LSTMs, CNNs
 
 ---
 
