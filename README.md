@@ -1,6 +1,7 @@
 # 🧠 Machine Learning & Deep Learning Projects Repository
 
-This repository contains a collection of **machine learning** and **deep learning** projects focused on solving real-world problems. Each project is crafted to demonstrate best practices in **data preprocessing**, **feature engineering**, **exploratory data analysis**, **model building**, and **evaluation techniques**.
+This repository contains a collection of my **past machine learning and deep learning projects**, each designed to address real-world use cases. The projects reflect my learning journey and hands-on experience in the field, demonstrating best practices in **data preprocessing**, **feature engineering**, **exploratory data analysis**, **model building**, and **evaluation techniques**.
+
 
 ---
 
